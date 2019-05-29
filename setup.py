@@ -9,7 +9,7 @@ with open('README.md','r') as fh:
     LONG_DESCRIPTION=fh.read()
 
 setuptools.setup(
-    name="lambdata-danh",
+    name="lambdata_danh",
     version="0.0.4",
     author="danh",
     description="A collection of Data Science Helper functions",
