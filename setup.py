@@ -10,7 +10,7 @@ with open('README.md','r') as fh:
 
 setuptools.setup(
     name="lambdatadanh",
-    version="0.0.15",
+    version="0.0.16",
     author="danh",
     description="A collection of Data Science Helper functions",
     long_description=LONG_DESCRIPTION,
